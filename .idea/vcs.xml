@@ -2,6 +2,8 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/auth-ms" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/auth-ms/auth-ms" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/client-gateway" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/orders-ms" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/payments-ms" vcs="Git" />
